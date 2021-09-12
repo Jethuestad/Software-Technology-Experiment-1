@@ -1,6 +1,10 @@
 # Software Technology Experiment 2
 
+All code used in the assignment can be found here:
+https://github.com/Jethuestad/experiment-assignment-2-code.git
+
 ## Experiment 1: Application using JPA
+
 I started with cloning the given maven project and continued with the toturial
 from step 4.3. I did not encounter any problems with the first part,
 but I could not manage to view the contents of the database by using a sql queuery.
