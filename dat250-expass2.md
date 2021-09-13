@@ -14,6 +14,9 @@ I managed to make a connection with the database using derby, but when I typed
 The contents printed out from the main function:
 ![database_entries](database_entires.png)
 
+*Update: I managed to view the contents of the databse table in Intellij*
+![image](https://user-images.githubusercontent.com/57411743/133087650-4fa78093-5cb4-45b9-83f6-e831704276f3.png)
+
 I had some trouble figuring out how to make the new project in step 6, but I
 managed to get it working after some time.
 
@@ -31,3 +34,4 @@ I checked to JPA structure from Intellij to see if it looked like I wanted
  - Did not manage to view table contents from the database. However I will still
 try to see if I can manage to view the contents with some help in the
 lab, even though I did not get the screenshots for the assignment.
+*Update: I did manage to view the contents from Intellij*
