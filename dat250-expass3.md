@@ -9,7 +9,7 @@ Here is the validation of the installation package:
 
 ## Experiment 1: MongoDB CRUD operations
 Below you can find screenshots of the main parts in each different CRUD
-operation tutorial step.
+operation tutorial.
 
 ### Insert
 ![Insert](pictures_3/insert.png)
