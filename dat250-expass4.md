@@ -25,6 +25,12 @@ This is after running the request some times, and then get in the end to see all
 
 ![example get request](pictures_4/postman_ex2.png)
 
+## Code
+
+This is the link to my code for experiment 2:
+
+https://github.com/Jethuestad/DAT250-expass4-code.git
+
 
 ## Issues
 
