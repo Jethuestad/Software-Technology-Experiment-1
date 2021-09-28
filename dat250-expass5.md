@@ -40,7 +40,7 @@ Screenshots of results after experiment 4:
 
 ## Code
 
-This is the link to my code for experiment 2:
+This is the link to my code for experiment 1-4:
 
 https://github.com/Jethuestad/DAT250-expass5-code.git
 
