@@ -12,7 +12,7 @@ I managed to make a connection with the database using derby, but when I typed
 `select * from TODO` I got an error message saying that there is no table 'TODO'.
 
 The contents printed out from the main function:
-![database_entries](database_entires.png)
+![database_entries](pictures_2/database_entires.png)
 
 *Update: I managed to view the contents of the databse table in Intellij*
 ![image](https://user-images.githubusercontent.com/57411743/133087650-4fa78093-5cb4-45b9-83f6-e831704276f3.png)
@@ -27,7 +27,7 @@ I found it a little tricky to use jpa to create det structure and I am not sure
 that I did so correctly.
 
 I checked to JPA structure from Intellij to see if it looked like I wanted
-![bank jpa structure](bankjpastructure.png)
+![bank jpa structure](pictures_2/bankjpastructure.png)
 
 ### Issues:
 
